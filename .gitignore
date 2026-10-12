@@ -1,0 +1,19 @@
+# PlatformIO
+.pio/
+.vscode/
+*.elf
+*.hex
+*.bin
+*.uf2
+*.map
+
+# Secrets and local configuration
+.env
+.env.*
+secrets.h
+credentials.h
+config.local.h
+
+# OS/editor
+.DS_Store
+Thumbs.db
